@@ -1,0 +1,5 @@
+{
+  "name": "TrendPulse AI",
+  "description": "A high-performance news aggregator that tracks topics across X.com, YouTube, and the web, using Gemini for intelligent daily summaries and real-time grounding.",
+  "requestFramePermissions": []
+}
